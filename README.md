@@ -5,7 +5,12 @@ React Native application
   - use "npm install -g expo-cli" to install expo
   - use "expo init {ProjectName}" to create app
   - cd {ProjectName}
-  - 
+  - install next modules:
+    -native-base
+    -react-native-easy-grid
+    -react-native-keyboard-aware-scroll-view
+    -react-native-swiper
+    -react-navigation
 2) Launch
   - open root folder in command promt
   - input "npm start"
