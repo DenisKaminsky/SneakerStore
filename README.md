@@ -1,7 +1,10 @@
 # SneakerStore
 React Native application
 
-1) Requirements 
+1) Inatallation
+  - use "npm install -g expo-cli" to install expo
+  - use "expo init {ProjectName}" to create app
+  - cd {ProjectName}
   - 
 2) Launch
   - open root folder in command promt
